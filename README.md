@@ -19,8 +19,17 @@ O projeto foi pensado com o objetivo de ocupar uma das lacunas atuais em metodol
 - [:hushed:] Excluir espécies e cidades através do seu id; 
 
  
- ## Guia de instação:
--
+ ## Guia de instalação:
+    Passo a passo para instalar:
+    
+* Clonar este repositório: https://github.com/Mikaelacs/Projeto-Final---inventario#;
+
+* Acessar a pasta com os dados;
+
+* Instalar as tecnologi utilizadas (lista logo abaixo);
+
+* Executar a API.
+
 
  ## Tecnologias utilizadas
 - Node.js

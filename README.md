@@ -1,8 +1,9 @@
 # Projeto-Final---Invent-rio
 Projeto final realizado para o curso da Reprograma
 
-<img src = https://i.pinimg.com/originals/22/c5/21/22c521758724f711fb07c61b58118e32.gif>
-
+<h1 align="center">
+<img src = "https://i.pinimg.com/originals/22/c5/21/22c521758724f711fb07c61b58118e32.gif">
+</h1>
 
 ## Objetivo
 

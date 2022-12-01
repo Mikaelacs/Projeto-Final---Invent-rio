@@ -12,11 +12,11 @@ O projeto foi pensado com o objetivo de ocupar uma das lacunas atuais em metodol
 ## Funções:
     A partir da API, os usuários poderão:
 
-- [image.png] Cadastrar espécies encontradas;
-- [image.png] Cadastrar regiões/cidades onde as espécies foram encontradas;
-- [image.png] Visualizar todas as espécies cadastradas;
-- [image.png] Atualizar a lista de espécie por região/cidades;
-- [image.png] Excluir espécies e cidades através do seu id; 
+- [:heart_eyes:] Cadastrar espécies encontradas;
+- [:heart_eyes:] Cadastrar regiões/cidades onde as espécies foram encontradas;
+- [:smiley:] Visualizar todas as espécies cadastradas;
+- [:smirk:] Atualizar a lista de espécie por região/cidades;
+- [:hushed:] Excluir espécies e cidades através do seu id; 
 
  
  ## Guia de instação:
